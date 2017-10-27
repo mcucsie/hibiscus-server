@@ -1,0 +1,16 @@
+{
+  "name": "hibiscus-server",
+  "version": "1.0.0",
+  "description": "Server for Hibiscus.",
+  "main": "index.js",
+  "repository": "git@github.com:mcucsie/hibiscus-server.git",
+  "author": "Ming Tsay <mt@moztw.org>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "moment": "^2.19.1",
+    "request": "^2.83.0"
+  }
+}
